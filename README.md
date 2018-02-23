@@ -7,7 +7,8 @@ raccoons that have been trapped, collared, and released as part of one of my
 studies). The drone would carry a device to download GPS
 coordinates collected by a GPS receiver on the collar while the animals are
 going about their lives. Instead of walking out into the bush to download
-the GPS data, I want the drone to do it for me. Therefore the drone needs to hover over the collar.
+the GPS data, I want the drone to do it for me. Therefore the drone needs to find and then 
+hover over the collar.
 Ideally, it would also be nice if
 some kind of GPS download feedback could be obtained to let the operator on the
 ground know that the data has been acquired.
