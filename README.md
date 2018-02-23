@@ -11,7 +11,8 @@ the GPS data, I want the drone to do it for me. Therefore the drone needs to hov
 Ideally, it would also be nice if
 some kind of GPS download feedback could be obtained to let the operator on the
 ground know that the data has been acquired.
-I don't know how to program, code, nada. Okay, maybe not nada.
+Hardware: Software Defined Radio dongle, Rasberry Pi 3 or other companion computer.
+Code: I don't really know how to program, code, nada. Okay, maybe not nada.
 I get the basic idea behind algorithms and understand some commands, but
 I am not at all proficient with programming.
 
